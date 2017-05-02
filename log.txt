@@ -1,0 +1,58 @@
+Logged Thu Sep 29 11:59:34 CDT 2016
+
+11:57:26: Server initialized on local IP JTSMDZ1/10.8.7.84 with port 11337
+11:57:26: Server listening for connections.
+11:57:52: Socket Accepted
+11:57:52: Client socket initialized.
+11:57:52: Server listening for connections.
+11:57:52: Thread Server Thread 1 running.
+11:57:52: outputStream established
+11:57:52: inputStream established
+11:57:52: Message received on server.
+11:57:52: Message sent.
+11:57:52: Message Text: Server: David has joined the server.
+11:58:16: Socket Accepted
+11:58:16: Client socket initialized.
+11:58:16: Server listening for connections.
+11:58:16: Thread Server Thread 2 running.
+11:58:16: outputStream established
+11:58:16: inputStream established
+11:58:16: Message received on server.
+11:58:16: Message sent.
+11:58:16: Message Text: Server: David has joined the server.
+11:58:22: Client disconnected.
+11:58:22: Connection Closing...
+11:58:22: Socket Input Stream Closed
+11:58:22: Socket Output Stream Closed
+11:58:22: Socket Closed
+11:58:22: Thread removed from threadList.
+11:58:29: Socket Accepted
+11:58:29: Client socket initialized.
+11:58:29: Server listening for connections.
+11:58:29: Thread Server Thread 3 running.
+11:58:29: outputStream established
+11:58:29: inputStream established
+11:58:30: Message received on server.
+11:58:30: Message sent.
+11:58:30: Message Text: Server: John has joined the server.
+11:58:43: User with name Server has id 1
+11:58:43: User with name Server has id 2
+11:58:43: User with name Server has id 3
+11:58:48: Message received on server.
+11:58:48: Message sent.
+11:58:48: Message Text: David: test
+11:58:50: Message received on server.
+11:58:50: Message sent.
+11:58:50: Message Text: John: test
+11:58:51: Message received on server.
+11:58:51: Message sent.
+11:58:51: Message Text: John: test
+11:58:59: Message received on server.
+11:58:59: Message sent.
+11:58:59: Message Text: David: test
+11:59:01: Message received on server.
+11:59:01: Message sent.
+11:59:01: Message Text: David: test
+11:59:12: Message received on server.
+11:59:12: Message sent.
+11:59:12: Message Text: John: hi david
